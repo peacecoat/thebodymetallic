@@ -7,7 +7,153 @@ import Typewriter from './Typewriter';
 const chapters = {
   chapter1: `The Points Most Affected By The User
 
-[Insert full text of Chapter 1 here]`,
+[I am so at the whims of a million invisible forces, and a million other ones in plain, rabid sight. 
+
+
+
+Before you spear me with the Guru’s influence—
+
+
+
+How else may I be of use to the illusions,
+
+not the ones that keep the poor in poverty, but the ones that make the children laugh and all the adults cry in remembrance of being children?
+
+
+
+Surely the Godhead needs some boots on the ground of Godlessness. 
+
+
+
+Am value thus, floating about,  integrating integers. 
+
+Am snipping the discourse into resourceful petals and, without rebuilding the rose am still crafting a good, good scent. 
+
+
+
+The kind that makes a lung sigh and the mouth say, ah. 
+
+
+
+Beyond vanilla and lavenders, the scent that all the good little hunters chase with their thousand apparatus, chasing down illumination in endless naught. 
+
+
+
+
+
+How naughty can be, the something? 
+
+
+
+As a child I wanted to be impressive. 
+
+Now I only wish to impress upon you all some sense of abject whimsy. 
+
+
+
+So sew me. 
+
+Grab at the thread and need illness. 
+
+Push the door against the thresh till’ you hear the lock click the sound of safety, 
+
+if that is what thou needs. 
+
+
+
+I only wish to impress upon you the scent of the something that has been examined back into invisibility, the something that has been destroyed back into existence, 
+
+the something that burst from the profound boredom that enraptured Mother Nothing to bleed forth 
+
+Father Something. 
+
+
+
+The, you know, the thing. 
+
+The thing we are all working at Here. 
+
+
+
+Position be blessed and damned, 
+
+the Here where everybody is and,
+
+until the time has escaped our world,
+
+the Here where everybody shall remain. 
+
+
+
+You, Sir. 
+
+Where did all the eating bring you to?
+
+
+
+Row, Row, Row your stream 
+
+harsh against the boat 
+
+inside of which us wildlings dream. 
+
+
+
+Still we are unshaken, for how 
+
+could earth quake enough 
+
+to startle things like us, which are forever moving until forever decides it’s had enough of us? 
+
+
+
+I suppose then, 
+
+stillness is Death’s cause. 
+
+
+
+To bring us moving things to the place of Great Ceasefulness.
+
+
+
+But will such an abrupt stop not 
+
+shake us yet again?
+
+
+
+Render us so flat 
+
+against the bricks of pause 
+
+that we are only able to sound again,
+
+like bells that quiver so high the 
+
+striking tongue is struck before it ever needs be raised again? 
+
+
+
+My inquiry here is entirely hypothetical. 
+
+
+
+Between the bloodless and the vile, 
+
+we all of us know, that we 
+
+are what has been set in motion 
+
+down the impossible hill of the eternal. 
+
+
+
+There is no getting off the ride. 
+
+
+
+So let us talk about Whee!]`,
   chapter2: `To Lack Deathlessness
 
 [Insert full text of Chapter 2 here]`,
